@@ -37,7 +37,7 @@ Si deseas mejorar el juego o agregar nuevas características, siéntete libre de
 
 ## Autor
 
-**Nombre del autor**: Tu nombre o seudónimo
+**Nombre del autor**: Angie.Rochi
 
 ---
 
